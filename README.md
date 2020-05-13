@@ -34,13 +34,6 @@ The task is episodic, and in order to solve the environment, your agent must get
 
 2. Place the file in the DRLND GitHub repository, in the `p1_navigation/` folder, and unzip (or decompress) the file. 
 
-3. The project is written using Jupyter Notebook. This command needs to be run to install the needed packages:
-
-```
-!pip -q install ./python
-```
-Running all the cells in the notebook will install it automatically.
-
 ### Instructions
 
 Follow the instructions in `Navigation with Double DQN + Dueling DQN + Prioritized Experience Replay.ipynb` to get started with training your own agent!  
